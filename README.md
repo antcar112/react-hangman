@@ -2,7 +2,7 @@
 
 Play a game of hangman. Built using [React](https://reactjs.org/).
 
-The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt)
+The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt).
 
 ## 📂 Local Installation
 
